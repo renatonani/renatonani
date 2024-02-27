@@ -1,6 +1,6 @@
 ### Hi there o/
 
-[![Most used languages](https://github-readme-stats.vercel.app/api?username=renatonani)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonani)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **renatonani/renatonani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
