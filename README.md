@@ -1,6 +1,11 @@
 ### Hi there o/
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonani)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Software developer
+- 📚 Graduated from UTN
+- 💻 I have knowledge in C - C# .NET - Python - TypeScript - Angular - Ionic - HTML - SQL Server - and more ✨
+- 📫 How to reach me: renatonani2@gmail.com
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **renatonani/renatonani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
